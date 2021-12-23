@@ -2,8 +2,6 @@
 
 **UNDER CONSTRUCTION**
 
-*These notes are taken from the draft [Google doc](https://docs.google.com/document/d/1AP24-2ytyDjZvLK5kG5pRnQFtIA_7M8nYeqHEskWvQI/edit) with minor tidying.*
-
 ## Introduction
 
 Recent advances in the computational sciences allow us to simulate many spectra (e.g., X-ray absorption, infrared/Raman, NMR) in silico. In principle, this could open up unprecedented possibilities for the interpretation of experimental data. 
