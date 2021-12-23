@@ -52,16 +52,8 @@ We will strive for general technical recommendations,  with  X-ray absorption sp
     - Survey backgrounds and interests of attendees, including possible breakout room attendance (online survey sent week(s) in advance) 
 
 2. Keynotes (I and III on day 1) 
-    - Need to invite one keynote speaker with 30 minute(?) slots. Suggestions:
-        - Josh Schrier
-        - Conor Coley
-    - Invite 5-6 people for panel discussion after the keynotes. Suggestions:
-        - Zach Trautt (or someone else from MGI/NIST)
-        - Alasdair Gray (or someone else from bioschemas)
-        - Someone from EU materials ontology world OntoTrans/OntoCommons 
-        - Nicholas Sauter (crystallography but bio-focused)
-        - Henk Birkholz (or someone else from an NFDI with focus on materials data management)
-        - Someone from Acceleration Consortium?
+    - Need to invite one keynote speaker with 30 minute(?) slots.
+    - Invite 5-6 people for panel discussion after the keynotes.
     - Shorter talks (10-20 mins) from various initiatives (can also be used as a pool for panel):
         - Academic research:
             - BIG-MAP
