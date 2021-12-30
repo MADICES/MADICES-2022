@@ -8,6 +8,7 @@
 ### Schemas/Ontologies
 
 - [Pachl, C.; Frank, N.; Breitbart, J.; Bräse, S. Overview of Chemical Ontologies. arXiv:2002.03842 [cs] 2020.](https://arxiv.org/pdf/2002.03842.pdf)
+- [The Trouble with Ontologies, or, How to Build an Ontology](https://cthoyt.com/2020/05/12/building-an-ontology.html)
 
 ## Tools
 
