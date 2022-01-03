@@ -2,6 +2,8 @@
 
 **UNDER CONSTRUCTION**
 
+### [CECAM Registration link](https://www.cecam.org/workshop-details/1165)
+
 ## Introduction
 
 Recent advances in the computational sciences allow us to simulate many spectra (e.g., X-ray absorption, infrared/Raman, NMR) in silico. In principle, this could open up unprecedented possibilities for the interpretation of experimental data. 
