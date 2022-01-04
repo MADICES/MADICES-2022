@@ -1,8 +1,8 @@
 # [Machine-Actionable Data Interoperability for Chemical Sciences (MADICES): Bridging experiments, simulations, and machine learning for spectral data](https://www.cecam.org/workshop-details/1165)
 
-**UNDER CONSTRUCTION**
-
 ### [CECAM Registration link](https://www.cecam.org/workshop-details/1165)
+
+### [Conference website](https://madices.github.io)
 
 ## Introduction
 
