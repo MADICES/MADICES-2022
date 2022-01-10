@@ -24,10 +24,14 @@ We will strive for general technical recommendations,  with  X-ray absorption sp
 
 ## Workshop aims
 
-- Connecting resources and people working across the globe on these issues in our field, catalyzing collaborations on common open source software tools and infrastructure for reporting and describing schemas, APIs and other tools.
-- A perspective paper authored by all workshop attendees outlining the current state of our field, with recommendations and suggestions for the future.
-- More targeted follow-up meetings and discussions on particular aspects and technologies picked up during the workshop.
-- The planning/organization of a hackathon-style event in mid-late 2022 targeted at interoperability between existing projects and the development of new software tools.
+
+1. To prepare a perspective paper targeted at providing guidelines and recommendations for new projects in our field that work with data.
+    - For example, how best to prepare and disseminate datasets, databases and APIs such that they are interoperable with existing projects.
+    - We will be focusing on the area of X-ray absorption spectroscopy as a concrete example of a domain where a sample, its context/metadata and relations with other samples and computational experiments (e.g. peak assignment) are necessary for the science
+2. To identify particular challenges that can be overcome via new collaborative software libraries/infrastructure and motivate their creation over follow-up meetings/hackathons
+    - For example, services that aid discoverability of apps/schemas, and ways of discovering if two apps are interoperable
+    - For example, strategies for progressively adopting open linked data principles that are accessible to non-experts
+3. To motivate follow-up meetings, hackathons and foster new cross-initiative collaborations.
 
 ### Organizing commitee (alphabetical)
 
@@ -37,67 +41,3 @@ We will strive for general technical recommendations,  with  X-ray absorption sp
 - Kevin Maik Jablonka
 - Carlo Pignedoli
 
-### Structure
-
-- Three remote days (planned for February 7-9 2022)
-- Attempt to straddle multiple timezones with 2-3 hour sessions I-IV at (say) 08:00 UTC, 12:00 UTC, 16:00 UTC and 20:00 UTC
-- All talks streamed live on YouTube and Zoom so that records are available immediately
-- Followed up in subsequent months by:
-    - A minimal number of meetings targeted at particular important breakout topics, with the aim to distill issues/opportunities into a section for a perspective paper
-    - Something like a Hackathon (say, Summer 2022, following release of a manifesto/paper) to investigate gaps in the ecosystem/solve technical issues in this area
-
-1. Introductions from organizers
-    - Important that these are pre-recorded and available ideally the week before the conference, but also “screened” live
-    - Discusses motivations and goals for the overall conference and beyond
-    - Survey backgrounds and interests of attendees, including possible breakout room attendance (online survey sent week(s) in advance) 
-
-2. Keynotes (I and III on day 1) 
-    - Need to invite one keynote speaker with 30 minute(?) slots.
-    - Invite 5-6 people for panel discussion after the keynotes.
-    - Shorter talks (10-20 mins) from various initiatives (can also be used as a pool for panel):
-        - Academic research:
-            - BIG-MAP
-            - NFDI4Chem
-            - NCCR
-            - MARDA
-            - Allotrope Foundation
-            - MaterialD1g1tal
-        - Industrial research:
-            - Toyota Research Institute
-            - BASF
-            - Bosch
-            - Citrine Informatics
-            - Novartis
-            - Merck
-        - Instrument manufacturers/facility managers (for specific XAS):
-            - Sigray
-            - Bruker
-            - Rigaku
-            - A large synchotron? 
-        - RDM schema/tool developers:
-            - OpenBIS
-            - Cheminfo
-            - MDCS
-            - Chemotion
-            - Labstep
-            - eLabFTW
-            - CHADA/MODA
-            - KADI4MAT
-            - LabTrove
-            - IUPAC
-            - CIF
-        - Open science orgs (if we have space)
-            - Open Knowledge Foundation (CKAN, Frictionless)
-            - Blue Obelisk
-            - International Data Spaces
-            - Gaia-X
-            - datacc
-            - OSF
-
-3. Breakout discussions (all other sessions, up to 3 concurrent rooms). 
-    - Pre-prepared (and shared) intro to topic from room organizer (10 minutes)
-    - Discussion (90 minutes)
-    - Break (20 minutes)
-    - Debrief with all rooms (10 minutes per room)
-    - In the final day, focus on tying discussions together into a paper section
-    - Potential topics can be found in `./breakouts`.
