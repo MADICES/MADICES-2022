@@ -39,5 +39,6 @@ We will strive for general technical recommendations,  with  X-ray absorption sp
 - Matthew Evans
 - Sebastiaan Huber
 - Kevin Maik Jablonka
+- Stefan Kuhn
 - Carlo Pignedoli
 
