@@ -14,6 +14,8 @@
 
 - [Linked Data Modeling Language](https://linkml.io/): Define schema as `yaml` files and generate JSON-Schema, RDF, OWL, GraphQL, Python dataclasses
 - [Versioning of data schema: Translate your data with lenses](https://www.inkandswitch.com/cambria/): Blog posts discusses the challenges and potential solutions for dealing with evolving data schema. 
+- [Basic tabular data annotation from frictionless data](https://specs.frictionlessdata.io/table-schema/#name)
+
 
 ## Initiatives 
 
