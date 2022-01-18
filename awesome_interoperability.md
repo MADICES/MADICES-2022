@@ -37,3 +37,5 @@
 
 - [FAIRsharing.org](https://fairsharing.org) domain collections for [Chemistry](https://fairsharing.org/collection/Chemistry) and [Semantic Assets for Materials Science](https://fairsharing.org/collection/SemanticAssetsMatSci).
 
+- [FAIRsFAIR ACME-FAIR Guide: Defining Data Interoperability Frameworks](https://zenodo.org/record/5775552) - one section in a 7-part set of recommendations for ensuring FAIR practice across domains.
+
