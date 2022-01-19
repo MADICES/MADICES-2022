@@ -19,7 +19,7 @@
 
 ## Initiatives 
 
-- [NFDI4Chem](https://www.nfdi4chem.de/): Initiative to build an open and FAIR infrastructure for research data management in chemistry.
+- [NFDI4Chem](https://www.nfdi4chem.de/): Initiative to build an open and FAIR infrastructure for research data management in chemistry with an associated [Knowledge Base](https://knowledgebase.nfdi4chem.de) on how to be FAIR in chemistry.
 
 - [Blue Obelisk](https://blueobelisk.github.io/): Internet group promoting reusable chemistry via open source software development. [📄](https://pubs.acs.org/doi/10.1021/ci050400b) [📄](https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-3-37)
 
