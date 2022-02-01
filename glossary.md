@@ -105,12 +105,15 @@ The [semantic web](https://www.w3.org/standards/semanticweb/) is an extension of
 it is [the fifth star of the five star open-data principles](https://5stardata.info/en/).
 
 
-## URI, URL, IRI
+## URI, URL, IRI, GUPRI
 
-A [URI](https://datatracker.ietf.org/doc/html/rfc3986) is sequence of a subset of ASCII characters that consists of a string that defines a scheme (e.g., `https`) followed by a `:` and a sequence specifying the authority (e.g.  `example.org`), the path (e.g., `/some/page`) and then optionally a query (e.g., `?get=name`) and optionally a gragment (`#results`).
+A [URI](https://datatracker.ietf.org/doc/html/rfc3986) is sequence of a subset of ASCII characters that consists of a string that defines a scheme (e.g., `https`) followed by a `:` and a sequence specifying the authority (e.g.  `example.org`), the path (e.g., `/some/page`) and then optionally a query (e.g., `?get=name`) and optionally fragment (`#results`).
 A URL is a special form of URI that is a locator, i.e. it can be resolved to some resource. An IRI is a generalization of URI to unicode glyps.
 
 A more detailed explanation on the difference between URLs, URIs, and IRIs can be found [here](https://fusion.cs.uni-jena.de/fusion/2016/11/18/iri-uri-url-urn-and-their-differences/).
+
+GUPRIs (globally unique persistent resolvable identifires) are simply URIs with the additional constraints that they must be globally unique and persistent, typically provided via a centralized registration service like the Digital Object Identifier Foundation ([DOI](https://doi.org) or [Handle](https://www.dona.net/handle-system). 
+These identifiers are a technical solution fulfilling F1 of the [FAIR Principles](https://www.go-fair.org/fair-principles/).
 
 ## UUID
 
