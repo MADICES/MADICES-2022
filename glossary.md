@@ -61,7 +61,7 @@ The archetypal example for chemistry is [CML](https://www.xml-cml.org/).
 The [Resource Description Framework (RDF)](https://en.wikipedia.org/wiki/Resource_Description_Framework) breaks down information into triples of subject, verb, object that are linked in a graph like database which machines can use to explore information (and understand how information is connected). An example for a triple can be substance (subject) inhibits (verb) protein (object) and the same element can also be used in publication (subject) describes (verb) protein. Importantly the parts of the triples are usually (except for values) URIs. SPARQL is a language that can be used to query RDF. 
 
 ## Open notebook science 
-[Open notebook science (ONS)](https://www.nature.com/articles/npre.2007.39.1) was popularized by Jean-Claude Bradley, and refers to making *all* primary research outputs openly available as they are recorded. The goal is to minimize the amount of "dark data", e.g., "failed" experiments that would never get published. [openlabnotebooks.org](openlabnotebooks.org) collects some efforts.
+[Open notebook science (ONS)](https://www.nature.com/articles/npre.2007.39.1) was popularized by Jean-Claude Bradley, and refers to making *all* primary research outputs openly available as they are recorded. The goal is to minimize the amount of "dark data", e.g., "failed" experiments that would never get published. [openlabnotebooks.org](https://openlabnotebooks.org/) collects some efforts.
 
 
 
