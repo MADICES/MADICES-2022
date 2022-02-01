@@ -98,9 +98,9 @@ The [semantic web](https://www.w3.org/standards/semanticweb/) is an extension of
 
 2. Use HTTP URIs so that people can look up those names.
 
-2. When someone looks up a URI, provide useful information, using the standards (RDF*, SPARQL)
+3. When someone looks up a URI, provide useful information, using the standards (RDF*, SPARQL)
 
-3. Include links to other URIs, so that they can discover more things.
+4. Include links to other URIs, so that they can discover more things.
 
 it is [the fifth star of the five star open-data principles](https://5stardata.info/en/).
 
