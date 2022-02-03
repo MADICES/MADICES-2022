@@ -23,9 +23,9 @@ A data dictionary describes the detailed definition (format, meaning, relationsh
 
 
 
-## Dublin Core
+## Dublin Core, DataCite
 
-[The Dublin Core Metadata Element Set](https://en.wikipedia.org/wiki/Dublin_Core) is a set of 15 elements like "Contributor", "Date", "Format" that should be used for describing data resources.
+[The Dublin Core Metadata Element Set](https://en.wikipedia.org/wiki/Dublin_Core) is a set of 15 elements like "Contributor", "Date", "Format" that should be used for describing data resources. Related is the [DataCite Metadata Standard](https://schema.datacite.org/).
 
 
 ## ELN 
@@ -56,13 +56,23 @@ A markup language allows annotating the text to decouple the structure from the 
 The archetypal example for chemistry is [CML](https://www.xml-cml.org/).
 
 
-## RDF 
-
-The [Resource Description Framework (RDF)](https://en.wikipedia.org/wiki/Resource_Description_Framework) breaks down information into triples of subject, verb, object that are linked in a graph like database which machines can use to explore information (and understand how information is connected). An example for a triple can be substance (subject) inhibits (verb) protein (object) and the same element can also be used in publication (subject) describes (verb) protein. Importantly the parts of the triples are usually (except for values) URIs. SPARQL is a language that can be used to query RDF. 
-
 ## Open notebook science 
 [Open notebook science (ONS)](https://www.nature.com/articles/npre.2007.39.1) was popularized by Jean-Claude Bradley, and refers to making *all* primary research outputs openly available as they are recorded. The goal is to minimize the amount of "dark data", e.g., "failed" experiments that would never get published. [openlabnotebooks.org](https://openlabnotebooks.org/) collects some efforts.
 
+## Open world assumption
+
+The open-world assumption is the assumption that a statement might be true irrespective of whether it is known to be true. 
+Semantic technologies (e.g., OWL) make the open-world assumption, i.e., the absence of statement does not mean that it is false. Many "classical" databases, in contrast, make the assumption that the absence of a statement means that is false. 
+
+Quoting the example from [Wikipedia](https://en.wikipedia.org/wiki/Open-world_assumption) 
+
+```
+Statement: "Mary" "is a citizen of" "France"
+Question: Is Paul a citizen of France?
+
+"Closed world" (for example SQL) answer: No.
+"Open world" answer: Unknown.
+```
 
 
 ## Ontology 
@@ -82,7 +92,11 @@ An ontology supports all the following use cases (table stolen from [Charles Hoy
 You can find more definitions of terms uses in the context of semantic techniques in [this  glossay by Charles Hoyt](https://cthoyt.com/2021/10/07/biopragmatics-glossary.html).
 
 
+[The web ontology language OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language) can be used to author ontologies. 
 
+## RDF 
+
+The [Resource Description Framework (RDF)](https://en.wikipedia.org/wiki/Resource_Description_Framework) breaks down information into triples of subject, verb, object that are linked in a graph like database which machines can use to explore information (and understand how information is connected). An example for a triple can be substance (subject) inhibits (verb) protein (object) and the same element can also be used in publication (subject) describes (verb) protein. Importantly the parts of the triples are usually (except for values) URIs. SPARQL is a language that can be used to query RDF. 
 
 ## Relational vs document databases
 
