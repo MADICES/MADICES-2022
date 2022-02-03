@@ -30,6 +30,7 @@ See also the [Semantic Python Overview](https://github.com/pysemtec/semantic-pyt
 
 - [RDA/CODATA Materials Data, Infrastructure & Interoperability IG](https://www.rd-alliance.org/groups/rdacodata-materials-data-infrastructure-interoperability-ig.html): Interest Group of the Research Data Alliance (RDA) that aims to foster exchange on material data.
 
+- [Materials Research Data Alliance (MaRDA)](https://www.marda-alliance.org/): a community network focused on developing the open, accessible, and interoperable materials data that fuels the Materials Genome Initiative (MGI).
 
 
 ## Related compilations
