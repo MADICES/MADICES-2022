@@ -5,7 +5,7 @@
 ## Data
 
 - [TED talk about Tim Berners-Lee about linked data](https://www.youtube.com/watch?v=OM6XIICm_qo)
-
+- [Course about RDF, Knowledge Graphs from TU Dresden](https://www.youtube.com/channel/UCCvDWNsR8YlQrB1tSj9Xqsw)
 
 
 ### Schemas/Ontologies
