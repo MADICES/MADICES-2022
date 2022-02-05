@@ -73,8 +73,5 @@ See also the [Semantic Python Overview](https://github.com/pysemtec/semantic-pyt
 - [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit) - a toolbox of various ontology related tools such as [ROBOT](https://github.com/ontodev/robot), [owltools](https://github.com/owlcollab/owltools), [dosdp-tools](https://github.com/INCATools/dosdp-tools) and many more, bundled as a docker image, a set of executable workflows for managing your ontologies continuous integration, quality control, releases and dynamic imports
 - [iochem-bd](https://www.iochem-bd.org/) - The Computational Chemistry Results Repository, using CML as internal data format 
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - a collaboratively edited multilingual knowledge graph 
-
-
-
 - [Pipeline Pilot](https://www.3ds.com/products-services/biovia/products/data-science/pipeline-pilot/) - Proprietary software to build ETL, data science/analytics workflows in a graphical user interface
 - [OPTIMADE](https://www.optimade.org/) - consortium that aims to make materials databases interoperable by developing a specification for a common REST API
