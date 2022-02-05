@@ -4,6 +4,9 @@
 
 ## Data
 
+- [TED talk about Tim Berners-Lee about linked data](https://www.youtube.com/watch?v=OM6XIICm_qo)
+
+
 
 ### Schemas/Ontologies
 
