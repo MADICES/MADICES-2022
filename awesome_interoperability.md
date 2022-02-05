@@ -55,7 +55,7 @@ See also the [Semantic Python Overview](https://github.com/pysemtec/semantic-pyt
 - [Chemical Markup Language CML](https://www.xml-cml.org/) - is an approach to managing molecular information using XML
 - [NeXus format](https://www.nexusformat.org/) -  common data format for neutron, x-ray, and muon science
 - [JSON-LD](https://search.brave.com/search?q=json-ld&source=desktop) - publishing linked data as JSON files on the Web
-- [GEMD data model]()
+- [GEMD data model](https://citrineinformatics.github.io/gemd-docs/) -  Graphical Expression of Materials Data that  links together materials, the processes that produced them, and the measurements that characterize them
 - [chemrof](https://chemkg.github.io/chemrof/) - data model for managing information about chemical entities, ranging from atoms through molecules to complex mixtures.
 
 ### Ontologies
