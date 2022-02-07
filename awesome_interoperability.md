@@ -19,6 +19,7 @@
 - [Versioning of data schema: Translate your data with lenses](https://www.inkandswitch.com/cambria/): Blog posts discusses the challenges and potential solutions for dealing with evolving data schema. 
 - [Basic tabular data annotation from frictionless data](https://specs.frictionlessdata.io/table-schema/#name)
 - [rdf-tabular](https://github.com/ruby-rdf/rdf-tabular). Also see [this talk](https://www.youtube.com/watch?v=qIXcnSCOyZs)
+- [Research Object Crates](https://www.researchobject.org/), a schema.org-based container specification for the serialization of research data.
 
 See also the [Semantic Python Overview](https://github.com/pysemtec/semantic-python-overview) list.
 
