@@ -8,10 +8,12 @@
 - [Course about RDF, Knowledge Graphs from TU Dresden](https://www.youtube.com/channel/UCCvDWNsR8YlQrB1tSj9Xqsw)
 
 
-### Schemas/Ontologies
+### Schemas, Ontologies & Vocabularies
 
 - [Pachl, C.; Frank, N.; Breitbart, J.; Bräse, S. Overview of Chemical Ontologies. arXiv:2002.03842 [cs] 2020.](https://arxiv.org/pdf/2002.03842.pdf)
 - [The Trouble with Ontologies, or, How to Build an Ontology](https://cthoyt.com/2020/05/12/building-an-ontology.html)
+- [Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu MC (2021) Ten simple rules for making a vocabulary FAIR. PLOS Computational Biology 17(6)](https://doi.org/10.1371/journal.pcbi.1009041)
+
 
 ## Tools
 
