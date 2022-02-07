@@ -49,7 +49,7 @@ See also the [Semantic Python Overview](https://github.com/pysemtec/semantic-pyt
 ## Recommended by participants 
 
 ### Data formats and models 
-- [JCAMP](jcamp-dx.org) - IUPAC recommended data exchange format with standardized vocabularies for some fields
+- [JCAMP](http://www.jcamp-dx.org/) - IUPAC recommended data exchange format with standardized vocabularies for some fields
 - [FAIRSpec](https://github.com/IUPAC/IUPAC-FAIRSpec) - standard for sharing spectroscopic data
 - [DataCite metadata schema](https://datacite.org/) - A set of mandatory metadata that must be registered with the DataCite Metadata Store when minting a DOI persistent identifier for a dataset
 - [AniML](https://www.animl.org/) - Analytical Information Markup Language (AnIML) is an open ASTM XML standard for storing and sharing any analytical chemistry data.
