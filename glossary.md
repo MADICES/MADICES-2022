@@ -78,7 +78,7 @@ Question: Is Paul a citizen of France?
 ## Ontology 
 Ontologies describe and clarifies the meaning and relation of terms in a formal language.
 
-An ontology supports all the following use cases (table stolen from [Charles Hoyt](https://cthoyt.com/2020/05/12/building-an-ontology.html))
+An ontology supports all the following use cases (table stolen from [Charles Tapley Hoyt](https://cthoyt.com/2020/05/12/building-an-ontology.html))
 
 
 | Phrase                | Definition                                                      |
@@ -89,7 +89,7 @@ An ontology supports all the following use cases (table stolen from [Charles Hoy
 | Hierarchy             | An enumerated set of entities with one parent for each          |
 | Multi-Hierarchy       | An enumerated set of entities with one or more parents for each |
 
-You can find more definitions of terms uses in the context of semantic techniques in [this  glossay by Charles Hoyt](https://cthoyt.com/2021/10/07/biopragmatics-glossary.html).
+You can find more definitions of terms uses in the context of semantic techniques in [this glossary by Charles Tapley Hoyt](https://cthoyt.com/2021/10/07/biopragmatics-glossary.html).
 
 
 [The web ontology language OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language) can be used to author ontologies. 
